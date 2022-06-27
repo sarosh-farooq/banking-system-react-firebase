@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "banking-system",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
